@@ -37,7 +37,7 @@
   display: flex;
   justify-content: center;
   gap: 12px;
-  background: #2c3e50;
+  background: #0f172a;
   padding: 15px;
   border-radius: 16px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
