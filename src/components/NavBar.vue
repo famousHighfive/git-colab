@@ -31,7 +31,7 @@ const menus = [
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 5%;
+  padding: 1rem 6%;
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(10px); /* Effet flou moderne */
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
